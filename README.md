@@ -57,7 +57,7 @@ We evaluated a range of machine learning models:
 
 ## 👨‍💻 Author's 
 
-- **Jagadeeswar Reddy Jillella** - jagadees2205
+- **Jagadeeswar Reddy Jillella** - [jagadees2205](https://github.com/jaagadees2205)
 - **Vishwas Reddy Dodle** 
 - **John Erbynn** 
 
